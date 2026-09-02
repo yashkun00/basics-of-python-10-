@@ -22,9 +22,10 @@ Changes are visible to all objects using that class variable.
 Use static methods when the function is related to the class but doesn't need object or class data.
 
 
-|---|---|---| 
+
 
 |Type | Parameter | Access |
+|---|---|---| 
 |Instance Method | self | Object data |
 |Class Method | cls | Class data |
 |Static Method | None | Neither object nor class |
