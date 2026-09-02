@@ -23,7 +23,7 @@ Use static methods when the function is related to the class but doesn't need ob
 
 
 |---|---|---|
-| Type | Parameter | Access |
-| Instance Method | self | Object data |
-| Class Method | cls | Class data |
-| Static Method | None | Neither object nor class |
+|Type|Parameter|Access|
+|Instance Method|self|Object data|
+|Class Method|cls|Class data|
+|Static Method|None|Neither object nor class|
