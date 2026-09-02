@@ -22,7 +22,7 @@ Changes are visible to all objects using that class variable.
 Use static methods when the function is related to the class but doesn't need object or class data.
 
 
-
+# Short key words to remember
 
 |Type | Parameter | Access |
 |---|---|---| 
