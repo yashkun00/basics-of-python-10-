@@ -10,8 +10,8 @@ class Laptop:
     def __str__(self):
         return f"Laptop: {self.brand}, Price: {self.price}"
 
-l1 = Laptop("Dell", 50000)
-print(l1)
+l2 = Laptop("Dell", 50000)
+print(l2)
 
 # Output:
 Laptop: Dell, Price: 50000
